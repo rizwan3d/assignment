@@ -1,0 +1,11 @@
+#phpstrom project files
+.idea
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+#dependancies
+vendor/
+
+#lock files
+composer.lock
